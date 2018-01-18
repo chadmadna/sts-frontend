@@ -31,6 +31,8 @@
   },
   "dependencies": {
     "babel-loader": "^7.0.0",
+    "ol": "4.6.4",
+    "pouchdb": "6.4.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
